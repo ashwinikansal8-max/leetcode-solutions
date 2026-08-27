@@ -3,5 +3,6 @@
   "k-th-symbol-in-grammar": "Math",
   "reverse-odd-levels-of-binary-tree": "Tree",
   "invert-binary-tree": "Tree",
-  "reverse-nodes-in-k-group": "Linked List"
+  "reverse-nodes-in-k-group": "Linked List",
+  "remove-nth-node-from-end-of-list": "Linked List"
 }
