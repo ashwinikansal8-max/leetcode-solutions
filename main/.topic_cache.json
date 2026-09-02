@@ -5,5 +5,6 @@
   "invert-binary-tree": "Tree",
   "reverse-nodes-in-k-group": "Linked List",
   "remove-nth-node-from-end-of-list": "Linked List",
-  "string-to-integer-atoi": "String"
+  "string-to-integer-atoi": "String",
+  "valid-parentheses": "String"
 }
