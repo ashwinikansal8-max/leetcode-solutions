@@ -9,7 +9,7 @@ class Solution {
 
         for(int i=0;i<=n-k;i++)
         {
-          if((double)s/k >= threshold) m++;
+          if(s>= threshold*k) m++;
             
             s = s- nums[i] + nums[(i+k)%n];
         }
