@@ -4,5 +4,14 @@
   "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": "Array",
   "maximum-average-subarray-i": "Array",
   "count-rotations-with-exactly-k-equal-adjacent-pairs": "Uncategorized",
-  "count-good-cyclic-rotations": "Uncategorized"
+  "count-good-cyclic-rotations": "Uncategorized",
+  "maximum-number-of-vowels-in-a-substring-of-given-length": "String",
+  "merge-two-sorted-lists": "Linked List",
+  "delete-the-middle-node-of-a-linked-list": "Linked List",
+  "add-digits": "Math",
+  "k-th-symbol-in-grammar": "Math",
+  "valid-parentheses": "String",
+  "string-to-integer-atoi": "String",
+  "invert-binary-tree": "Tree",
+  "reverse-odd-levels-of-binary-tree": "Tree"
 }
