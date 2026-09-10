@@ -13,5 +13,9 @@
   "valid-parentheses": "String",
   "string-to-integer-atoi": "String",
   "invert-binary-tree": "Tree",
-  "reverse-odd-levels-of-binary-tree": "Tree"
+  "reverse-odd-levels-of-binary-tree": "Tree",
+  "linked-list-cycle": "Hash Table",
+  "linked-list-cycle-ii": "Hash Table",
+  "sort-list": "Linked List",
+  "count-commas-in-range-ii": "Math"
 }
