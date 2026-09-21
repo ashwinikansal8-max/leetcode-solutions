@@ -28,5 +28,6 @@
   "best-time-to-buy-and-sell-stock": "Array",
   "pascals-triangle": "Uncategorized",
   "pascals-triangle-ii": "Array",
-  "duplicate-emails": "Database"
+  "duplicate-emails": "Database",
+  "second-highest-salary": "Database"
 }
