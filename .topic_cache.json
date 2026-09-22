@@ -30,5 +30,6 @@
   "pascals-triangle-ii": "Array",
   "duplicate-emails": "Database",
   "second-highest-salary": "Database",
-  "consecutive-numbers": "Database"
+  "consecutive-numbers": "Database",
+  "customers-who-never-order": "Database"
 }
