@@ -32,5 +32,6 @@
   "second-highest-salary": "Database",
   "consecutive-numbers": "Database",
   "customers-who-never-order": "Database",
-  "employees-earning-more-than-their-managers": "Database"
+  "employees-earning-more-than-their-managers": "Database",
+  "rank-scores": "Database"
 }
