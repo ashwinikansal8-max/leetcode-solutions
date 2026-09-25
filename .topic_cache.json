@@ -33,5 +33,6 @@
   "consecutive-numbers": "Database",
   "customers-who-never-order": "Database",
   "employees-earning-more-than-their-managers": "Database",
-  "rank-scores": "Database"
+  "rank-scores": "Database",
+  "rotate-array": "Array"
 }
