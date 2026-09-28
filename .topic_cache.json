@@ -34,5 +34,6 @@
   "customers-who-never-order": "Database",
   "employees-earning-more-than-their-managers": "Database",
   "rank-scores": "Database",
-  "rotate-array": "Array"
+  "rotate-array": "Array",
+  "remove-linked-list-elements": "Linked List"
 }
