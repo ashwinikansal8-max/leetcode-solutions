@@ -35,5 +35,6 @@
   "employees-earning-more-than-their-managers": "Database",
   "rank-scores": "Database",
   "rotate-array": "Array",
-  "remove-linked-list-elements": "Linked List"
+  "remove-linked-list-elements": "Linked List",
+  "container-with-most-water": "Array"
 }
