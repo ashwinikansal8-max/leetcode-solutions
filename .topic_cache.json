@@ -36,5 +36,6 @@
   "rank-scores": "Database",
   "rotate-array": "Array",
   "remove-linked-list-elements": "Linked List",
-  "container-with-most-water": "Array"
+  "container-with-most-water": "Array",
+  "trapping-rain-water": "Array"
 }
