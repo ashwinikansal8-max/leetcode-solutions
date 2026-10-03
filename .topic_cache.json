@@ -37,5 +37,8 @@
   "rotate-array": "Array",
   "remove-linked-list-elements": "Linked List",
   "container-with-most-water": "Array",
-  "trapping-rain-water": "Array"
+  "trapping-rain-water": "Array",
+  "two-sum-ii-input-array-is-sorted": "Array",
+  "remove-duplicates-from-sorted-array": "Array",
+  "sort-array-by-parity": "Array"
 }
