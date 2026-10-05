@@ -40,5 +40,9 @@
   "trapping-rain-water": "Array",
   "two-sum-ii-input-array-is-sorted": "Array",
   "remove-duplicates-from-sorted-array": "Array",
-  "sort-array-by-parity": "Array"
+  "sort-array-by-parity": "Array",
+  "valid-palindrome": "Two Pointers",
+  "odd-even-linked-list": "Linked List",
+  "reverse-vowels-of-a-string": "Two Pointers",
+  "delete-nodes-from-linked-list-present-in-array": "Array"
 }
