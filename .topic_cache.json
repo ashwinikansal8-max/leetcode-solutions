@@ -44,5 +44,8 @@
   "valid-palindrome": "Two Pointers",
   "odd-even-linked-list": "Linked List",
   "reverse-vowels-of-a-string": "Two Pointers",
-  "delete-nodes-from-linked-list-present-in-array": "Array"
+  "delete-nodes-from-linked-list-present-in-array": "Array",
+  "maximum-absolute-sum-of-any-subarray": "Array",
+  "maximum-subarray": "Array",
+  "permutations": "Array"
 }
