@@ -47,5 +47,7 @@
   "delete-nodes-from-linked-list-present-in-array": "Array",
   "maximum-absolute-sum-of-any-subarray": "Array",
   "maximum-subarray": "Array",
-  "permutations": "Array"
+  "permutations": "Array",
+  "copy-list-with-random-pointer": "Hash Table",
+  "longest-substring-without-repeating-characters": "Hash Table"
 }
