@@ -49,5 +49,10 @@
   "maximum-subarray": "Array",
   "permutations": "Array",
   "copy-list-with-random-pointer": "Hash Table",
-  "longest-substring-without-repeating-characters": "Hash Table"
+  "longest-substring-without-repeating-characters": "Hash Table",
+  "contains-duplicate-ii": "Array",
+  "valid-anagram": "Hash Table",
+  "intersection-of-two-arrays": "Array",
+  "ransom-note": "Hash Table",
+  "first-unique-character-in-a-string": "Hash Table"
 }
