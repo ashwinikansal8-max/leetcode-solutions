@@ -1,20 +1,10 @@
 class Solution {
-
-    int count(int num){
-        int c=0;
-        while(num>0){
-            num = (num&(num-1));
-            c++;
-        }
-        return c;
-    }
     public int[] countBits(int n) {
         int[] arr = new int[n+1];
-
-        for(int i=0;i<=n;i++){
-            arr[i]=count(i);
+        arr[0]=0;
+        for(int i=1;i<=n;i++){
+            arr[i]=arr[i&(i-1)]+1;
         }
-
         return arr;
     }
 }
