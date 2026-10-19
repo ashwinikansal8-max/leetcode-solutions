@@ -80,5 +80,13 @@
   "third-maximum-number": "Array",
   "hamming-distance": "Bit Manipulation",
   "number-complement": "Bit Manipulation",
-  "binary-number-with-alternating-bits": "Bit Manipulation"
+  "binary-number-with-alternating-bits": "Bit Manipulation",
+  "integer-to-roman": "Hash Table",
+  "roman-to-integer": "Hash Table",
+  "sort-integers-by-the-number-of-1-bits": "Array",
+  "decode-xored-array": "Array",
+  "find-target-indices-after-sorting-array": "Array",
+  "add-two-integers": "Math",
+  "sum-of-two-integers": "Math",
+  "valid-mountain-array": "Array"
 }
