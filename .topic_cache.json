@@ -88,5 +88,8 @@
   "find-target-indices-after-sorting-array": "Array",
   "add-two-integers": "Math",
   "sum-of-two-integers": "Math",
-  "valid-mountain-array": "Array"
+  "valid-mountain-array": "Array",
+  "reverse-words-in-a-string": "Two Pointers",
+  "maximum-k-to-sort-a-permutation": "Array",
+  "first-missing-positive": "Array"
 }
