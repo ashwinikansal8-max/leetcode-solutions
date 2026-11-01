@@ -91,5 +91,6 @@
   "valid-mountain-array": "Array",
   "reverse-words-in-a-string": "Two Pointers",
   "maximum-k-to-sort-a-permutation": "Array",
-  "first-missing-positive": "Array"
+  "first-missing-positive": "Array",
+  "palindrome-linked-list": "Linked List"
 }
