@@ -92,5 +92,13 @@
   "reverse-words-in-a-string": "Two Pointers",
   "maximum-k-to-sort-a-permutation": "Array",
   "first-missing-positive": "Array",
-  "palindrome-linked-list": "Linked List"
+  "palindrome-linked-list": "Linked List",
+  "longest-common-prefix": "Array",
+  "3sum": "Array",
+  "3sum-closest": "Array",
+  "4sum": "Array",
+  "merge-k-sorted-lists": "Linked List",
+  "minimum-moves-to-equal-array-elements": "Array",
+  "minimum-moves-to-equal-array-elements-ii": "Array",
+  "non-decreasing-array": "Array"
 }
