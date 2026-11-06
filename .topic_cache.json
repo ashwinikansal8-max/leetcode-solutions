@@ -100,5 +100,7 @@
   "merge-k-sorted-lists": "Linked List",
   "minimum-moves-to-equal-array-elements": "Array",
   "minimum-moves-to-equal-array-elements-ii": "Array",
-  "non-decreasing-array": "Array"
+  "non-decreasing-array": "Array",
+  "find-the-distance-value-between-two-arrays": "Array",
+  "letter-combinations-of-a-phone-number": "Hash Table"
 }
