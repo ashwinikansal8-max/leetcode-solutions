@@ -102,5 +102,8 @@
   "minimum-moves-to-equal-array-elements-ii": "Array",
   "non-decreasing-array": "Array",
   "find-the-distance-value-between-two-arrays": "Array",
-  "letter-combinations-of-a-phone-number": "Hash Table"
+  "letter-combinations-of-a-phone-number": "Hash Table",
+  "my-calendar-i": "Array",
+  "my-calendar-ii": "Array",
+  "my-calendar-iii": "Binary Search"
 }
