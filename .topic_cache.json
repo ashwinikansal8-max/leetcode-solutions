@@ -105,5 +105,10 @@
   "letter-combinations-of-a-phone-number": "Hash Table",
   "my-calendar-i": "Array",
   "my-calendar-ii": "Array",
-  "my-calendar-iii": "Binary Search"
+  "my-calendar-iii": "Binary Search",
+  "two-sum": "Array",
+  "kth-smallest-element-in-a-bst": "Tree",
+  "calculate-digit-sum-of-a-string": "String",
+  "group-anagrams": "Array",
+  "validate-binary-search-tree": "Tree"
 }
